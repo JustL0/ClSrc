@@ -1,1 +1,6 @@
-1.0.0
+cl {
+    url: "https://cdn.discordapp.com/attachments/1174160591615701093/1174162690999058443/ZortLandClient.zip?ex=656fd1b8&is=655d5cb8&hm=fe799487310938f1ae802ddd1f15efbef4a033595607c5b7428602af2a52c06c&"
+    ver: "1.0.0"
+}
+
+
