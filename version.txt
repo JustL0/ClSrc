@@ -1,5 +1,5 @@
 cl {
-    url: "https://cdn.discordapp.com/attachments/1174160591615701093/1177074168508993546/Client_1.0.0.zip?ex=65712ebe&is=655eb9be&hm=f6d456ee6ffa5604dd83ceafee0da414c5579555f7cb7d8f95ea7153dde58360&"
+    url: "https://cdn.discordapp.com/attachments/1174160591615701093/1177076511434608640/ZortClient.zip?ex=657130ed&is=655ebbed&hm=f57c7f35ca3b55efa133383dd4c4239677bbcbbcdaad45e129410499f01b589f&"
     ver: "1.0.0"
 }
 
